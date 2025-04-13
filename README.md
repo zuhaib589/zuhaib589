@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zuhaib Zafar 
+- 👋 Hi, I’m Zohaib Zafar 
 - 👀 I’m interested in web development and new technologies
   - 💞️ I’m looking to collaborate with different Tech companies and people's to grow my self in tech
 - 📫 How to reach me "zuhaibzafar589@gmail.com"
