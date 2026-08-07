@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zohaib Zafar 
 - 👀 I’m interested in web development and new technologies
-  - 💞️ I’m looking to collaborate with different Tech companies and people's to grow my self in tech
-- 📫 How to reach me "zuhaibzafar589@gmail.com"
-- 😄 Pronouns: Zuhaib
+  - 💞️ I’m looking to collaborate with different Tech companies and people to grow myself in tech
+- 📫 How to reach me: "zuhaibzafar589@gmail.com"
+- 😄 Pronouns: Zabii
 
 <!---
 zuhaib589/zuhaib589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
